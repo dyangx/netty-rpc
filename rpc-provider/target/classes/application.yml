@@ -1,0 +1,6 @@
+
+spring:
+  dubbo:
+    application:
+      name: dubbo-web
+      registry: zookeeper://152.136.190.118:9000

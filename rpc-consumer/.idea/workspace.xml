@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mjCAlAnyNjtbpDIIUZHVoseEFC" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rpc-core/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebApplication">
+    <configuration name="WebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpc-protocol" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rpc.protocol.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpc-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rpc.registry.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpc-facade" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rpc.facade.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpc-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rpc.test.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpc-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rpc.provider.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpc-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rpc.consumer.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
