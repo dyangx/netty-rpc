@@ -1,5 +1,6 @@
 package com.rpc.provider.config;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 
 /**
@@ -8,6 +9,10 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 public class ProviderAutoConfiguration {
+
+    @Autowired
+    private RpcProperties rpcProperties;
+
 
 
 }

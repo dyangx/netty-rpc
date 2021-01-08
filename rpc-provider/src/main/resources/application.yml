@@ -1,0 +1,7 @@
+
+rpc:
+  port: 8500
+  registryType: ZOOKEEPER
+  registryAddr: 127.0.0.1:8500
+
+
